@@ -24,6 +24,7 @@ gem 'railties',     '~> 4.2.0' # forced to overcome coffee-rails
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder',     '~> 1.2'
+gem 'ransack', '1.8.3'
 
 group :doc do
   gem 'sdoc', require: false
